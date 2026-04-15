@@ -1,6 +1,6 @@
 # ai-fraud-detection-geospatial-analytics
 AI-powered fraud detection system with explainable ML models and interactive geospatial analytics using Streamlit, Plotly, and PyDeck.
-# 🛡️ AI Fraud Detection + Geospatial Analytics
+# AI Fraud Detection + Geospatial Analytics
 
 An end-to-end **Machine Learning system** for detecting fraudulent transactions with **explainability and geospatial intelligence**.
 
@@ -8,7 +8,7 @@ Built using **Streamlit, Scikit-learn, Plotly, and PyDeck**, this project demons
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 ---
 
@@ -65,7 +65,7 @@ Built using **Streamlit, Scikit-learn, Plotly, and PyDeck**, this project demons
 
 ---
 
-## ▶️ How to Run Locally
+##  How to Run Locally
 
 ### 1. Clone the Repository
 
